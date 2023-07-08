@@ -1,0 +1,10 @@
+z-zoo
+y-year
+a-apple
+p-pavan
+v-VENKAT
+y-yugandhar ALL  ALL=(ALL)
+b-ball
+c-cat
+d-duck
+
