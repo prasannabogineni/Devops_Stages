@@ -7,12 +7,5 @@ pipeline {
       }
     }
 
-    stage('stage02') {
-      steps {
-        sh 'echo "stage02"'
-        node(label: 'EC2_NODE')
-      }
-    }
-
   }
 }
